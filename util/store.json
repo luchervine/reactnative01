@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "description": "Tee-Shirt",
+    "marque": "Adidas",
+    "prix": 135.3
+  },
+  {
+    "id": 2,
+    "description": "Shirt",
+    "marque": "Nike",
+    "prix": 226.4
+  },
+  {
+    "id": 3,
+    "description": "Tee-Shirt",
+    "marque": "Puma",
+    "prix": 632
+  },
+  {
+    "id": 4,
+    "description": "Shirt",
+    "marque": "Adidas",
+    "prix": 999.9
+  }
+]
